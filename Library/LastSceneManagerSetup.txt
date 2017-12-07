@@ -1,0 +1,22 @@
+sceneSetups:
+- path: Assets/Main Scene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Problem List.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Problem 1.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Problem 2.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Problem 3.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Problem 4.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Learner Profile.unity
+  isLoaded: 1
+  isActive: 1
